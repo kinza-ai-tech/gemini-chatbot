@@ -3,6 +3,10 @@
 A desktop AI chatbot built with Python and Google's Gemini API.
 Supports real conversations with memory using the Gemini 2.5 Flash model.
 
+## 📸 Screenshot
+
+![🤖 Gemini AI Chatbot](screenshot.png)
+
 ## ✅ Features
 
 * ✅ Connects to real Gemini AI
